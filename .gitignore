@@ -1,0 +1,8 @@
+# Ignore virtual environment.
+.venv/
+
+# Ignore MacOS files.
+.DS_Store
+
+# Ignore any other unnecessary files
+*.log
