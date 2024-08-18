@@ -1,11 +1,11 @@
-# Highest Github Forks Count
+# Most Forked Github repositories
 
 ## Overview
-This project uses Python to analyze and sort Github's public repositories by highest fork count. Then the top 100 are displayed on a bar chart. 
+This project uses Python to analyze and sort Github's public repositories by highest fork count. Then the top 50 are displayed on a bar chart. 
 
 ## Libraries Used
 - requests: API calls
-- plotly: Visualizing results
+- plotly.express: Visualizing results
 
 ## Setup Instructions
 1. Clone the repository:
@@ -23,7 +23,7 @@ This project uses Python to analyze and sort Github's public repositories by hig
     python main.py
 
 ## Future Enhancements
-- Machine Learning: Analyze the results to see how much information is repeated in these top 100 results.
+- Machine Learning: Analyze the results to see how much information is repeated in these top 50 results.
 
 ## Contact and Licensing
 For inquiries, please contact John Lewis.
