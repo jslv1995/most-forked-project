@@ -25,5 +25,5 @@ This project uses Python to analyze and sort Github's public repositories by hig
 ## Future Enhancements
 - Machine Learning: Analyze the results to see how much information is repeated in these top 50 results.
 
-## Contact and Licensing
-For inquiries, please contact John Lewis.
+## License
+This project is licensed under the MIT License - see the LICENSE.txt file for details.
